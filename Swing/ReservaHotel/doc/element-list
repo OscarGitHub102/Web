@@ -1,0 +1,13 @@
+Controller_Admin
+Controller_Crear
+Controller_Eliminar
+Controller_Facturar
+Controller_Modificar
+Controller_Visualizar
+Model
+View_Admin
+View_Crear
+View_Eliminar
+View_Facturar
+View_Modificar
+View_Visualizar
