@@ -1,0 +1,264 @@
+/*INDEX*/
+
+        #bloque_jueves
+        {
+            float: left;
+            text-align: center;
+            margin-left: 230px;
+            background-color: #B0E5F4;
+        }
+
+        #bloque_viernes
+        {
+            float: left;
+            text-align: center;
+            margin-left: 360px;
+            background-color: #B0E5F4;
+        }
+
+        #bloque_sabado
+        {
+            float: left;
+            clear: left;
+            text-align: center;
+            margin-left: 230px;
+            background-color: #B0E5F4;
+            margin-top: 20px;
+            margin-bottom: 30px;
+        }
+
+        #bloque_domingo
+        {
+            float: left;
+            text-align: center;
+            margin-left: 360px;
+            background-color: #B0E5F4;
+            margin-top: 20px;
+            margin-bottom: 30px;
+        }
+
+        .bloque
+        {
+            border: 1px;
+            border-radius: 3%;
+            border-color: black;
+            width: 350px;
+            height: 280px;
+            color: black;
+        }
+
+        .parrafo
+        {
+            font-size: 20px;
+            font-style: italic;
+        }
+
+        caption
+        {
+            font-size: 20px;
+            font-weight: bold;
+        }
+
+        th, thead tr td
+        {
+            background-color: #8BE575;
+        }
+
+        td
+        {
+            background-color: #A9FA95;
+        }
+
+        #index
+        {   
+            background-color: #94CBEE;
+            background-image: url(./images/fondo_index.jpg);
+            min-width: 1470px;
+        }
+
+        #h1_index
+        {
+            text-align: center;
+            font-style: italic;
+            font-weight: bold;
+            font-size: 60px;
+            margin-top: 60px;
+        }
+
+        #jueves, #viernes, #sabado, #domingo
+        {
+            font-size: 200%;
+        }
+
+        th, td
+        {
+            text-align: center;
+            font-size: 15px;
+        }
+
+        .mapa
+        {
+            float: left;
+            clear: left;
+            margin-left: 30px;
+            width: 600px;
+            height: 750px;
+        }
+
+        .tabla1
+        {
+            float: left;
+            margin-left: 40px;
+            margin-bottom: 30px;
+            width: 800px;
+            height: 200px;
+        }
+
+        .tabla2
+        {
+            float: left;
+            margin-left: 40px;
+            width: 800px;
+            height: 200px;
+        }
+
+        .reserva
+        {
+            float: left;
+            clear: left;
+            margin-left: 30px;
+            font-size: 25px;
+            text-align: center;
+        }
+
+        
+/* DIAS */
+
+        .body_dias
+        {
+            min-width: 1200px;
+            font-size: 20px;
+            background-color: #D8D8D8;
+        }
+
+        .h1_dias
+        {
+            text-align: center;
+        }
+
+        .h2_dias
+        {
+            text-align: center;
+        }
+
+        .icono_pp
+        {
+            float: left;
+            margin-top: 10px;
+            margin-bottom: 10px;
+            margin-left: 30px;
+        }
+
+        .enlaces_dias
+        {
+            float: left;
+            margin-top: 10px;
+            margin-bottom: 10px;
+            margin-left: 300px;
+        }
+
+        .icono_reserva
+        {
+            float: right;
+            margin-top: 10px;
+            margin-bottom: 10px;
+            margin-right: 30px;
+        }
+
+/*PELICULAS*/
+
+        .body_peli
+        {
+            background-color: #EAEDED;
+            font-size: 130%;
+            min-width: 1300px;
+        }
+
+        .h1_peli
+        {
+            font-style: italic;
+            margin-left: 30px;
+            text-align: center;
+        }
+        
+        .span_peli
+        {
+            font-style: italic;
+        }
+
+        .portada img
+        {
+            float: left;
+            width: 400px;
+            margin-left: 30px;
+        }
+
+        .cabecera
+        {
+            float: left;
+            max-width: 800px;
+            margin-left: 40px;
+        }
+
+        .datos
+        {
+            float: left;
+            margin-bottom: 10px;
+            width: 800px;
+        }
+
+        .sinopsis
+        {
+            float: left;
+            clear: left;    
+        }
+
+        .cuerpo
+        {
+            margin-left: 30px;
+        }
+        
+        .reparto
+        {
+            float: left;
+            clear: left;
+            margin-top: 10px;
+            margin-bottom: 10px;
+            width: 1240px;
+
+        }
+
+        .premios
+        {
+        
+            float: left;
+            width: 1240px;
+            margin-bottom: 10px;
+        }
+
+/*RESERVA*/
+
+        #body_reserva
+        {
+            background-color: #D2B4DE;
+        }
+
+        #h1_reserva
+        {
+            text-align: center;
+        }
+
+        #fieldset_reserva
+        {
+            background-color: #EBDEF0;
+        }
