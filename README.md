@@ -1,10 +1,10 @@
 > [!NOTE]  
-> * **_Cinematics_**
+> * **_HTML - CSS (Cine de verano)_**
 >
->   Android Studio project to manage a film reservation app with the use of Firebase as database.
-> * **_Proyecto Personal_**
+>   Website of a summer cinema with schedules, movie information and a form to save viewers data.
+> * **_Swing (Reserva Hotel)_**
 >
->   Android Studio project to manage the the sale of tickets for a movie in a summer cinema.
+>   Desktop application for managing clients, rooms, services and reservations of a hotel.
 > </br>
 >
 > ***THE DATA USED IN THIS REPOSITORY ARE INVENTED***
